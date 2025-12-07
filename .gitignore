@@ -1,0 +1,128 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ============ PROJECT SPECIFIC ============
+
+# Model checkpoints and saves
+saves/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Experiment outputs
+outputs/
+runs/
+metrics/
+metrics_*/
+logs/
+*.log
+
+# Cache directories
+.cache/
+*/.cache/
+
+# WandB
+wandb/
+
+# Hydra outputs
+multirun/
+
+# Data files (keep structure, ignore large files)
+datasets/*.csv
+datasets/*.json
+datasets/*.parquet
+
+# Temporary files
+*.tmp
+*.temp
+nohup.out
+
+# OS files
+.DS_Store
+Thumbs.db
+

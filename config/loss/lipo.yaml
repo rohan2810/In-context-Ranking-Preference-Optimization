@@ -1,0 +1,4 @@
+name: lipo
+# the temperature parameter for RDPO; lower values mean we care less about
+#   the reference model
+beta: ???

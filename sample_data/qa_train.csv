@@ -1,0 +1,5 @@
+full_situation,preferred,rejected
+"Question: What is the capital of France?",['Paris'],"['London', 'Berlin', 'Madrid', 'Rome', 'Amsterdam']"
+"Question: Which planet is known as the Red Planet?",['Mars'],"['Venus', 'Jupiter', 'Saturn', 'Mercury', 'Neptune']"
+"Question: Who wrote Romeo and Juliet?",['William Shakespeare'],"['Charles Dickens', 'Jane Austen', 'Mark Twain', 'Homer', 'Dante']"
+
